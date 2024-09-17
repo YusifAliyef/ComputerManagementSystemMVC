@@ -1,0 +1,45 @@
+﻿@model List<Customers>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<table class="table" style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr style="background-color: #007BFF; color: #ffffff;">
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">ID</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">First Name</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Last Name</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Email</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Phone</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Address</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Action</th>  
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customers in Model)
+        {
+            <tr style="background-color: #f2f2f2;">
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@customers.Id</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@customers.FirstName</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@customers.LastName</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@customers.Email</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@customers.PhoneNumber</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@customers.Address</td>
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Customer" asp-action="Edit"
+                       asp-route-id="@customers.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Customer" asp-action="Delete"
+                       asp-route-id="@customers.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+       
+    </tbody>
+</table>
+
+@section scripts {
+    <script src="~/js/customerTable.js"></script>
+}

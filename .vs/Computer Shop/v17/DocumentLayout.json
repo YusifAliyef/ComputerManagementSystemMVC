@@ -1,0 +1,845 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\order\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\order\\addorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|c:\\users\\lenova\\source\\repos\\computer shop\\computer shop\\wwwroot\\js\\computer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\computer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\js\\computertable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\computertable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\computer\\addcomputer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\computer\\addcomputer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\css\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\css\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\computer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\computer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\order.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\js\\ordertable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\ordertable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\js\\customer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\customer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\computer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\computer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\lib\\bootstrap\\license||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\js\\customertable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\customertable.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\controllers\\computercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\contexts\\computercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\contexts\\computercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\configurations\\ordersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\configurations\\ordersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\models\\customermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Migrations\\20240908144315_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:Computer Shop\\Migrations\\20240908144315_mig5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\computer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\computer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\entities\\computers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\entities\\computers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\entities\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\models\\detailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\models\\detailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\models\\computermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\models\\computermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\configurations\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\configurations\\customerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\configurations\\sizeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\configurations\\sizeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\configurations\\computersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\configurations\\computersconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\configurations\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\entities\\sizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\entities\\sizes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|C:\\Users\\lenova\\source\\repos\\Computer Shop\\computer shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66E1DE10-D998-445F-93EA-DA5ADBFFAB17}|Computer Shop\\Computer Shop.csproj|solutionrelative:computer shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:12:26.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddComputer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\AddComputer.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Computer\\AddComputer.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\AddComputer.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Computer\\AddComputer.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:33:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAGQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:17:19.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "computer.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\computer.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\computer.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\computer.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\computer.js",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T19:09:05.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "computerTable.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\computerTable.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\computerTable.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\computerTable.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\computerTable.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T19:09:26.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Order\\AddOrder.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Order\\AddOrder.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Order\\AddOrder.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Order\\AddOrder.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T08:44:48.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Computer Shop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:20:50.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Computer Shop\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T15:24:39.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\order.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\order.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\order.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\order.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-12T17:45:04.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T15:00:53.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global.css",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\css\\Global.css",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\css\\Global.css",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\css\\Global.css",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\css\\Global.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T15:02:12.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T13:59:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\Details.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Computer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\Details.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Computer\\Details.cshtml",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwFkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:56:02.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:47:01.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:01:09.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T18:19:51.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "orderTable.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\orderTable.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\orderTable.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\orderTable.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\orderTable.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-12T17:45:26.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Computer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\Edit.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Computer\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T20:38:51.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "customer.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\customer.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\customer.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\customer.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\customer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T18:44:07.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "customerTable.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\customerTable.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\customerTable.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\customerTable.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\customerTable.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T18:51:00.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T17:48:12.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-14T08:48:13.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Computer Shop\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Computer Shop\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-08T15:00:52.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Computer Shop\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T08:32:55.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:01:13.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComputerContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Contexts\\ComputerContext.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Contexts\\ComputerContext.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Contexts\\ComputerContext.cs",
+              "RelativeToolTip": "Computer Shop\\Contexts\\ComputerContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:32:50.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrdersConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\OrdersConfig.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Configurations\\OrdersConfig.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\OrdersConfig.cs",
+              "RelativeToolTip": "Computer Shop\\Configurations\\OrdersConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:55:19.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Entities\\Orders.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Orders.cs",
+              "RelativeToolTip": "Computer Shop\\Entities\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:33:10.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ComputerController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\ComputerController.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Controllers\\ComputerController.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Controllers\\ComputerController.cs",
+              "RelativeToolTip": "Computer Shop\\Controllers\\ComputerController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:07:39.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T07:40:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T16:28:20.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Computer Shop\\Models\\OrderModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:23:47.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\CustomerModel.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Models\\CustomerModel.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\CustomerModel.cs",
+              "RelativeToolTip": "Computer Shop\\Models\\CustomerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T16:02:54.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240908144315_mig5.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Migrations\\20240908144315_mig5.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Migrations\\20240908144315_mig5.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Migrations\\20240908144315_mig5.cs",
+              "RelativeToolTip": "Computer Shop\\Migrations\\20240908144315_mig5.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAQwAsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:43:16.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Program.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Program.cs",
+              "RelativeToolTip": "Computer Shop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:15:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Computer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Computer\\Index.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Computer\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T08:16:40.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Computers.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Computers.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Entities\\Computers.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Computers.cs",
+              "RelativeToolTip": "Computer Shop\\Entities\\Computers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:33:00.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Customers.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Entities\\Customers.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Customers.cs",
+              "RelativeToolTip": "Computer Shop\\Entities\\Customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:33:32.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Category.cs",
+              "RelativeToolTip": "Computer Shop\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:34:06.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DetailModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\DetailModel.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Models\\DetailModel.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\DetailModel.cs",
+              "RelativeToolTip": "Computer Shop\\Models\\DetailModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T16:50:12.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ComputerModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\ComputerModel.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Models\\ComputerModel.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\ComputerModel.cs",
+              "RelativeToolTip": "Computer Shop\\Models\\ComputerModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T08:17:13.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CustomerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\CustomerConfig.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Configurations\\CustomerConfig.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\CustomerConfig.cs",
+              "RelativeToolTip": "Computer Shop\\Configurations\\CustomerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:55:46.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Computer Shop\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T07:03:01.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SizeConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\SizeConfig.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Configurations\\SizeConfig.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\SizeConfig.cs",
+              "RelativeToolTip": "Computer Shop\\Configurations\\SizeConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:55:34.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ComputersConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\ComputersConfig.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Configurations\\ComputersConfig.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\ComputersConfig.cs",
+              "RelativeToolTip": "Computer Shop\\Configurations\\ComputersConfig.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:54:22.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Configurations\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Configurations\\CategoryConfig.cs",
+              "RelativeToolTip": "Computer Shop\\Configurations\\CategoryConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:56:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Sizes.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Sizes.cs",
+              "RelativeDocumentMoniker": "Computer Shop\\Entities\\Sizes.cs",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Entities\\Sizes.cs",
+              "RelativeToolTip": "Computer Shop\\Entities\\Sizes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:33:21.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Computer Shop\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T16:18:45.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:01:07.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Computer Shop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Computer Shop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T15:01:16.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\appsettings.json",
+              "RelativeDocumentMoniker": "Computer Shop\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenova\\source\\repos\\Computer Shop\\Computer Shop\\appsettings.json",
+              "RelativeToolTip": "Computer Shop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T15:14:55.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

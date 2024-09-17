@@ -1,0 +1,45 @@
+﻿@model List<Orders>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<table class="table" style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr style="background-color: #007BFF; color: #ffffff;">
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">ID</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;"> Order Date</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;"> Quantity</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Total Price</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Customer Id</th>
+            <th style="padding: 8px; text-align: left; border-bottom: 2px solid #0056b3;">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var orders in Model)
+        {
+            <tr style="background-color: #f2f2f2;">
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@orders.Id</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@orders.OrderDate</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@orders.Quantity</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@orders.TotalPrice</td>
+                <td style="padding: 8px; border-bottom: 1px solid #ddd;">@orders.CustomerId</td>
+
+                <td style="white-space:nowrap">
+                    <a class="btn btn-primary btn-sm" asp-controller="Order" asp-action="Edit"
+                       asp-route-id="@orders.Id">Edit</a>
+                    <a class="btn btn-danger btn-sm" asp-controller="Order" asp-action="Delete"
+                       asp-route-id="@orders.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+
+
+@section scripts {
+    <script src="~/js/orderTable.js"></script>
+}
